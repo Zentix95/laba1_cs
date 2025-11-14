@@ -1,0 +1,14 @@
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.AssemblyInfoInputs.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.AssemblyInfo.cs
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.csproj.CoreCompileInputs.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\bin\Debug\net10.0\Library.exe
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\bin\Debug\net10.0\Library.deps.json
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\bin\Debug\net10.0\Library.runtimeconfig.json
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\bin\Debug\net10.0\Library.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\bin\Debug\net10.0\Library.pdb
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\refint\Library.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.pdb
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\Library.genruntimeconfig.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\Library\obj\Debug\net10.0\ref\Library.dll
