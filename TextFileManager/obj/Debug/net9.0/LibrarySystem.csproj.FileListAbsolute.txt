@@ -1,0 +1,28 @@
+C:\Users\mirbe\Desktop\lab1\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\mirbe\Desktop\lab1\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\mirbe\Desktop\lab1\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\mirbe\Desktop\lab1\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\mirbe\Desktop\lab1\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\mirbe\Desktop\lab1\obj\Debug\net9.0\ref\LibrarySystem.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\bin\Debug\net9.0\LibrarySystem.exe
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\bin\Debug\net9.0\LibrarySystem.deps.json
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\bin\Debug\net9.0\LibrarySystem.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\bin\Debug\net9.0\LibrarySystem.pdb
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\refint\LibrarySystem.dll
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.pdb
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+X:\Download Edge\Cristal\.УЧЕБА\ИСИТ\lab1\obj\Debug\net9.0\ref\LibrarySystem.dll
